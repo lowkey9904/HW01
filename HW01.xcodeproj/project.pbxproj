@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		49879ACF233A0DF40069E4CF /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 49879ACE233A0DF40069E4CF /* ContentView.swift */; };
 		591C5C832339A5B00044186B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 591C5C822339A5B00044186B /* AppDelegate.swift */; };
 		591C5C852339A5B00044186B /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 591C5C842339A5B00044186B /* SceneDelegate.swift */; };
 		591C5C872339A5B00044186B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 591C5C862339A5B00044186B /* ContentView.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		49879ACE233A0DF40069E4CF /* ContentView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		591C5C7F2339A5B00044186B /* HW01.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HW01.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		591C5C822339A5B00044186B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		591C5C842339A5B00044186B /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				591C5C822339A5B00044186B /* AppDelegate.swift */,
 				591C5C842339A5B00044186B /* SceneDelegate.swift */,
 				591C5C862339A5B00044186B /* ContentView.swift */,
+				49879ACE233A0DF40069E4CF /* ContentView.swift */,
 				591C5C882339A5B10044186B /* Assets.xcassets */,
 				591C5C8D2339A5B10044186B /* LaunchScreen.storyboard */,
 				591C5C902339A5B10044186B /* Info.plist */,
@@ -148,6 +151,7 @@
 			files = (
 				591C5C832339A5B00044186B /* AppDelegate.swift in Sources */,
 				591C5C852339A5B00044186B /* SceneDelegate.swift in Sources */,
+				49879ACF233A0DF40069E4CF /* ContentView.swift in Sources */,
 				591C5C872339A5B00044186B /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
